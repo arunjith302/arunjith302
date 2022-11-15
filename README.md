@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Arunjith</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India,Dedicated to robust application that intract with the Backend part of web applications.Extensive expertise in website architecture,design, and web design,and web API design,Problem-solving mindset with a goal to optimize my application for better stability and speed.Love to work in a team</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunjith302&label=Profile%20views&color=0e75b6&style=flat" alt="arunjith302" /> </p>
 
